@@ -23,9 +23,11 @@ body {
     background-color: #fff;
 }
 
-.navbar img {
-    height: 40px;
+.nav-logo {
+    height: 45px;          /* Adjust height to match your header size */
     width: auto;
+    padding-right: 200px;
+    display: block;
 }
 
 .navbar h2[data-text="Capstone Project"] {
@@ -143,4 +145,5 @@ body {
     font-size: 1.5rem;
     font-weight: 450;
     text-align: center;
+
 }
