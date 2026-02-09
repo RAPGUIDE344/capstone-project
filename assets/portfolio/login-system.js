@@ -5,7 +5,8 @@ document.addEventLister('DMContentLoaded', () => {
   const signupBtn = document.getElementByID('signup-btn');
 
   // Login State Update
-  window.addEventListener("login"
+  window.addEventListener("login-btn", function () {
+  }
   // Sign Up State Update
   
 }
