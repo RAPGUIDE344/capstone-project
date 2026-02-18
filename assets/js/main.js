@@ -32,6 +32,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }, { threshold: 0.1 });
     sections.forEach(section => observer.observe(section));
 
+    // Typewriter Animation
+    const paragraphText = document.getElementById('paragraph-text');
+        
+    
     // Handle Download Button Click
     const downloadBtn = document.querySelector('.download-btn');
     if (downloadBtn) {
@@ -104,4 +108,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
     createParticles();
+
 });
