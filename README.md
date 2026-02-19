@@ -1,5 +1,3 @@
-WEB DESIGNING PROJECT (DATA ANALYSIS RECORD SYSTEM SCANNER)
-
 This project is designed for Capstone Research in Information, Inquiry, Intelligence
 
 Supervise by Sir Willheim Andrew Bitao
@@ -14,5 +12,4 @@ UI/Web Developer: Rashmir Gemoto
 
 Member:
 Eduard Damaso
-
 Jaynard Andaya
